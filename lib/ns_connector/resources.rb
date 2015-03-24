@@ -1,5 +1,6 @@
 require 'ns_connector/resources/contact'
 require 'ns_connector/resources/credit_memo'
+require 'ns_connector/resources/custom_record'
 require 'ns_connector/resources/customer'
 require 'ns_connector/resources/customer_deposit'
 require 'ns_connector/resources/customer_payment'
